@@ -275,7 +275,7 @@
                 <h1 class="display-6 mb-4">What our cherished customers have to say</h1>
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
-                <div class="p-4">
+                <div class="testimonial-item p-4">
                 <!-- <div class="testimonial-item bg-white rounded p-4">
                     <div class="d-flex align-items-center mb-4">
                         <div class="w-100 text-center">
@@ -294,7 +294,7 @@
                     </div>
                     <p class="mb-0">Wah itu cookies enak banget cocok banget di jualin ke sekolah2 loh. Masya Allah ya pinter banget Mama Barra bikin kue ternyata, rasanya cocok banget buat cemilan aku yg udah kena sugar crush 😂😂😂<br><br>Apalagi kalo udh kerja puyeng, cocok bgt itu kena cookies kamu + kopi. 🤤</p>
                 </div>
-                <div class="p-4">
+                <div class="testimonial-item p-4">
                 <!-- <div class="testimonial-item bg-white rounded p-4">
                     <div class="d-flex align-items-center mb-4">
                         <div class="w-100 text-center">
