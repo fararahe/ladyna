@@ -275,15 +275,14 @@
                 <h1 class="display-6 mb-4">What our cherished customers have to say</h1>
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
-                <div class="testimonial-item p-4">
-                <!-- <div class="testimonial-item bg-white rounded p-4">
+                <div class="testimonial-item bg-white rounded p-4">
                     <div class="d-flex align-items-center mb-4">
                         <div class="w-100 text-center">
                             <h5 class="mb-1">Maya</h5>
                             <span>Private Instructor</span>
                         </div>
                     </div>
-                    <p class="mb-0">Wah itu cookies enak banget cocok banget di jualin ke sekolah2 loh. Masya Allah ya pinter banget Mama Barra bikin kue ternyata, rasanya cocok banget buat cemilan aku yg udah kena sugar crush 😂😂😂<br><br>Apalagi kalo udh kerja puyeng, cocok bgt itu kena cookies kamu + kopi. 🤤</p> -->
+                    <p class="mb-0">Wah itu cookies enak banget cocok banget di jualin ke sekolah2 loh. Masya Allah ya pinter banget Mama Barra bikin kue ternyata, rasanya cocok banget buat cemilan aku yg udah kena sugar crush 😂😂😂<br><br>Apalagi kalo udh kerja puyeng, cocok bgt itu kena cookies kamu + kopi. 🤤</p>
                 </div>
                 <div class="testimonial-item bg-white rounded p-4">
                     <div class="d-flex align-items-center mb-4">
@@ -294,17 +293,7 @@
                     </div>
                     <p class="mb-0">Wah itu cookies enak banget cocok banget di jualin ke sekolah2 loh. Masya Allah ya pinter banget Mama Barra bikin kue ternyata, rasanya cocok banget buat cemilan aku yg udah kena sugar crush 😂😂😂<br><br>Apalagi kalo udh kerja puyeng, cocok bgt itu kena cookies kamu + kopi. 🤤</p>
                 </div>
-                <div class="testimonial-item p-4">
-                <!-- <div class="testimonial-item bg-white rounded p-4">
-                    <div class="d-flex align-items-center mb-4">
-                        <div class="w-100 text-center">
-                            <h5 class="mb-1">Client Name</h5>
-                            <span>Profession</span>
-                        </div>
-                    </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p> -->
-                </div>
-                <!-- <div class="testimonial-item bg-white rounded p-4">
+                <div class="testimonial-item bg-white rounded p-4">
                     <div class="d-flex align-items-center mb-4">
                         <div class="w-100 text-center">
                             <h5 class="mb-1">Client Name</h5>
@@ -312,7 +301,16 @@
                         </div>
                     </div>
                     <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
-                </div> -->
+                </div>
+                <div class="testimonial-item bg-white rounded p-4">
+                    <div class="d-flex align-items-center mb-4">
+                        <div class="w-100 text-center">
+                            <h5 class="mb-1">Client Name</h5>
+                            <span>Profession</span>
+                        </div>
+                    </div>
+                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                </div>
             </div>
         </div>
     </div>
