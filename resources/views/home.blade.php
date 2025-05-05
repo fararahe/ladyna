@@ -304,6 +304,7 @@
                     </div>
                     <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p> -->
                 </div>
+                <div class="p-4">
                 <!-- <div class="testimonial-item bg-white rounded p-4">
                     <div class="d-flex align-items-center mb-4">
                         <div class="w-100 text-center">
@@ -311,8 +312,8 @@
                             <span>Profession</span>
                         </div>
                     </div>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
-                </div> -->
+                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p> -->
+                </div>
             </div>
         </div>
     </div>
